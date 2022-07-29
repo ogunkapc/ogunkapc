@@ -14,7 +14,7 @@
 
 <hr>
 <h3 align="left">Languages and Tools I've Used:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -28,11 +28,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogunkapc" alt="ogunkapc" /></a> </p>
 -->
 
-<p align="center">
+<p float="right">
 
 [![Promise's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogunkapc&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ogunkapc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunkapc&layout=compact)](https://github.com/ogunkapc/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogunkapc&layout=compact&langs_count=10&exclude_repo=github-slideshow,github-readme-stats)](https://github.com/ogunkapc/github-readme-stats)
 </p>
 
 <!--
