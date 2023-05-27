@@ -1,10 +1,8 @@
-# Well hello there👋...
-
-<h1>👋 I’m Promise</h1>
+# Well hello there👋...I’m Promise
 
 - 👀 I’m interested in Software Engineering
 - 📫 How to reach me: ogunkapc@gmail.com
-- 🌱 I’m currently learning mobile applications development
+- 🌱 I’m currently learning Flutter for mobile development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
